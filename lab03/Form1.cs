@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// tôi đã ở đay
 namespace lab03
 {
     public partial class txtN1 : Form
